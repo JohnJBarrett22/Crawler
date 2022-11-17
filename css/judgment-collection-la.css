@@ -214,6 +214,7 @@ blockquote {
 
 .section {
   position: relative;
+  margin-right: auto;
   padding: 100px 20px;
 }
 
@@ -1388,6 +1389,24 @@ blockquote {
 .learn-more {
   font-family: Poppins, sans-serif;
   color: #b89b5e;
+}
+
+.image {
+  max-width: 25%;
+}
+
+.columns-2 {
+  margin-top: 10px;
+}
+
+.image-2 {
+  margin-right: 0px;
+  margin-left: 0px;
+  text-align: left;
+}
+
+.div-block {
+  text-align: right;
 }
 
 html.w-mod-js *[data-ix="display-scroll-navigation-none-on-initial-apper"] {
